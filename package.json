@@ -1,0 +1,24 @@
+{
+  "name": "salary-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caroladao/salary-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caroladao/salary-calculator/issues"
+  },
+  "homepage": "https://github.com/Caroladao/salary-calculator#readme",
+  "devDependencies": {
+    "jest": "^25.2.4",
+    "jest-matcher-deep-close-to": "^1.3.0"
+  }
+}
