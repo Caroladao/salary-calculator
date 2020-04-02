@@ -3,6 +3,7 @@ const { toBeDeepCloseTo } = require( 'jest-matcher-deep-close-to' )
 expect.extend({ toBeDeepCloseTo })
 
 const calculator = new Calculator();
+// test
 
 describe( 'Calculator', () => {
   test( 'Developer with base salary less than 3000', () => {
